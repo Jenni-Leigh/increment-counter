@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/04/45/58/15/360_F_445581580_zqhbvSSeas4jWLAny1w9NWyV0Ip1CpA1.jpg");
+    background-size: cover;
+    font-family: Oxygen-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, , Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(82, 24, 207);
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: rgb(82, 24, 207);
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: pink;
+    border-radius: 25px;
+}
+
+#save-btn {
+    background: purple;
+    border-radius: 25px;
+}
+
+#save-el {
+    color: rgb(82, 24, 207);
+    
+
+}
+
+.container {
+    background: lavenderblush;
+    max-width: 60%;
+    margin: auto;
+    border: 25px solid rgb(241, 30, 175);
+}
